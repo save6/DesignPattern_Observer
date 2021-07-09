@@ -1,4 +1,3 @@
-from abc import ABCMeta, abstractmethod
 import matplotlib as mpl
 mpl.use('Agg') # backendsを指定する
 import matplotlib.pyplot as plt
